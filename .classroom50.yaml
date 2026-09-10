@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ds212"
+assignment: "portfolio"
+owner:
+  username: "acmdac"
+  id: 196364974
+  accepted_at: "2026-09-10T20:30:46Z"
+source:
+  owner: "mac-ds212-f26"
+  owner_id: 323652586
+  repo: "portfolio-template"
+  branch: "main"
